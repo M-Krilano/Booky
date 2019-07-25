@@ -19,6 +19,6 @@ Frontend:
 - React
 Backend:
 - NodeJs and Express-Graphql 
-  - Authentication: jsonwebtoken
+  - Authentication: jsonwebtoken\n
 Database:
 - MongoDB
