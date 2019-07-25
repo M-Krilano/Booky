@@ -1,5 +1,8 @@
 # Booky
-Create events and see other events that users created.
+Create events and see other events that users created
+Wanted to practice with MongoDB and experience graphql without Apollo
+(I appreciate Apollo so much more now)
+***Apollo version coming soon***
 
 To Run:
 1) backend
